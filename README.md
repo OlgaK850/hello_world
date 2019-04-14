@@ -1,3 +1,2 @@
-# hello_world
-1st
-first file
+# thesis draft
+code for thesis
